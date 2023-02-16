@@ -1,9 +1,6 @@
 
 # webapp
 
-
-networks and cloud computing assignments
-
 Made using Node.js, Express.js   
 
 To run, you need to install Node.js on your machine refer to this: https://nodejs.org/en/download/ 
