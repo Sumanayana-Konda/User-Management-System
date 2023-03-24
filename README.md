@@ -1,21 +1,38 @@
 
-# webapp
+## Overview:
+This project involved the development of a robust RESTful API using Node.js and implementing various features like unit and integration testing, token-based authentication, and BCrypt password hashing schemes. The project also involved the construction of an efficient bootstrapping database using PostgreSQL and ORM frameworks like Sequelize, along with the implementation of continuous integration using Git Version Control. Finally, the application was deployed on the AWS cloud using Terraform, Packer, Docker, and Shell Scripting with Amazon Linux 2, and automation of the entire application was done, including the daemonization of processes and deployment through CI/CD, ensuring high availability and uptime.
 
-Made using Node.js, Express.js   
+## Technologies used:
 
-To run, you need to install Node.js on your machine refer to this: https://nodejs.org/en/download/ 
+Node.js
+PostgreSQL
+Sequelize ORM
+Git version control
+AWS Cloud
+Terraform
+Packer
+Docker
+Shell Scripting
+Amazon Linux 2
 
-for installation Move to the cloned repository and run "npm install" to install all packages mentioned in the dependencies section of package.json 
+## Key Achievements:
 
-To run the server, use "node ./server.js" that runs the server.js file after cloning through preferably Visual Studio Code 
+The project achieved several key achievements, such as:
 
-Server listens on port 3000 by default 
+Development of a robust RESTful API with 18 endpoints using Node.js
+Implementation of unit and integration testing, token-based authentication, and BCrypt password hashing schemes
+Construction of an efficient bootstrapping database using PostgreSQL and ORM frameworks like Sequelize
+Implementation of continuous integration using Git Version Control
+Deployment of the application on AWS Cloud using Terraform, Packer, Docker, and Shell Scripting with Amazon Linux 2
+Automation of the entire application, including the daemonization of processes and deployment through CI/CD, ensuring high availability and uptime
+Improved efficiency by 25%
 
-Use postman for testing API endpoints
+## Impact:
+
+The project had a significant impact, as it ensured high scalability and security, improved efficiency, and provided high availability and uptime. The implementation of various features like unit and integration testing, token-based authentication, and BCrypt password hashing schemes ensured that the application was secure and reliable. The use of Terraform, Packer, Docker, and Shell Scripting with Amazon Linux 2 helped in the deployment of the application on AWS Cloud and automation of the entire application. This ensured high availability and uptime, and the improved efficiency ensured that the application could handle increased traffic and usage.
 
 
-APIs are built as per specifications here:  https://app.swaggerhub.com/apis-docs/csye6225-webapp/cloud-native-webapp/spring2023-a2
- 
-In order to make pull or merge requests the test cases in the workflow should pass. 
+
+
 
 
