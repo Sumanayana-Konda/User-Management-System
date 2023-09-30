@@ -32,6 +32,7 @@ Improved efficiency by 25%
 The project had a significant impact, as it ensured high scalability and security, improved efficiency, and provided high availability and uptime. The implementation of various features like unit and integration testing, token-based authentication, and BCrypt password hashing schemes ensured that the application was secure and reliable. The use of Terraform, Packer, Docker, and Shell Scripting with Amazon Linux 2 helped in the deployment of the application on AWS Cloud and automation of the entire application. This ensured high availability and uptime, and the improved efficiency ensured that the application could handle increased traffic and usage.
 
 
+![cd](https://github.com/Sumanayana-Konda/User-Management-System/assets/114708712/2fc16f6e-5514-4d22-a684-f5b9ad1e9a3b)
 
 
 
